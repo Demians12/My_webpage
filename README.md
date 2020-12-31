@@ -1,5 +1,5 @@
 # My_webpage
-[![NPM](https://img.shields.io/npm/1/react)](https://github.com/Demians12/My_webpage/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Demians12/My_webpage/blob/main/LICENSE)
 
 It was made using bootstrap, javascript, HTML5. Web page under construction
 
