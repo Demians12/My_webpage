@@ -3,7 +3,8 @@
 
 ## Sobre o projeto:
 ### Front-end
-* Foi utilizado bootstrap 
+Foi utilizado:
+* bootstrap 
 * Javascript
 * HTML
 
